@@ -49,7 +49,7 @@ assets/css 폴더 밑에 linkpreview를 보여줄 css 파일을 만들어주고,
 ## 📖 포스팅 시 활용 문법
 
 ```markdown
-\{% linkpreview "https://giwon512.github.io" %\}
+<!-- \{% linkpreview "https://giwon512.github.io" %\} -->
 ```
 
 ## ⚠️trouble shooting
