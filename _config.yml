@@ -110,9 +110,9 @@ author:
   location         : "Seoul, South Korea"
   email            : "giwon512@naver.com"
   links:
-    - label: "Email"
+    - label: "giwon512@naver.com"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:giwon512@naver.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
