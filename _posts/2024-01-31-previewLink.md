@@ -1,6 +1,6 @@
-­---
+---
 layout: single
-title: previewLink 기능 추가하기
+title: 포스트에 Link Preview 기능 추가하기
 categories: ['Github Pages']
 tag: [blog, jekyll]
 ---
