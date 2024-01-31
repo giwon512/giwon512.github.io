@@ -46,11 +46,6 @@ group :jekyll_plugins do
 
 assets/css 폴더 밑에 linkpreview를 보여줄 css 파일을 만들어주고, _includes/head.html에 스타일시트를 연결해준다.
 
-## 📖 포스팅 시 활용 문법
-
-```markdown
-<!-- \{% linkpreview "https://giwon512.github.io" %\} -->
-```
 
 ## ⚠️trouble shooting
 
