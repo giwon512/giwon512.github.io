@@ -77,7 +77,7 @@ insert into tbldept values('10', 'sales');
 insert into tbldept values('20', 'marketting');
 ```
 
-![tblDept.png]({{"assets\images\dbms\sqlTransaction\tblDept.png" | relative_url}})
+![tblDept.png]({{"../../../../assets/images/dbms/sqlTransaction/tblDept.png" | relative_url}})
 
 그 후, 직원 정보를 담는 테이블을 만들고 외래키로 tblDept를 연결해본다.
 
@@ -90,7 +90,7 @@ create table tblEmp(
   constraint ft_tblemp_deptno foreign key(deptno) references tbldept(deptno));
 ```
 
-![foreignErr.png]({{"assets\images\dbms\sqlTransaction\foreignErr.png" | relative_url}})
+![foreignErr.png]({{"../../../../assets/images/dbms/sqlTransaction/foreignErr.png" | relative_url}})
 
 ### 제약조건 확인 1
 
@@ -109,7 +109,7 @@ insert into tblemp values(1, 'hong', sysdate, '10'); #정상실행
 insert into tblemp values(1, 'hong', sysdate, '30'); #에러
 ```
 
-![forErr2.png]({{"assets\images\dbms\sqlTransaction\forErr2.png" | relative_url}})
+![forErr2.png]({{"../../../../assets/images/dbms/sqlTransaction/forErr2.png" | relative_url}})
 
 연결된 tblDept테이블에 30번 부서는 없기에 에러가 발생한다.
 
@@ -119,7 +119,7 @@ insert into tblemp values(1, 'hong', sysdate, '30'); #에러
 update tbldept set deptno=100 where deptno=10; 
 ```
 
-![forErr3.png]({{"assets\images\dbms\sqlTransaction\forErr3.png" | relative_url}})
+![forErr3.png]({{"../../../../assets/images/dbms/sqlTransaction/forErr3.png" | relative_url}})
 
 이미 참조되고 있는 10번 부서의 번호를 바꿔버리면 에러가 발생한다. 다만 참조되지 않고 있는 20번 부서의 번호는 바꿔도 아무런 문제가 없다.
 
@@ -131,7 +131,7 @@ update tbldept set deptno=100 where deptno=10;
 insert into tbldept values('20', 'management');
 ```
 
-![uniqueErr.png]({{"assets\images\dbms\sqlTransaction\uniqueErr.png" | relative_url}})
+![uniqueErr.png]({{"../../../../assets/images/dbms/sqlTransaction/uniqueErr.png" | relative_url}})
 
 고유 무결성이 지켜짐을 확인할 수 있다.
 
@@ -152,7 +152,7 @@ insert into tblexam values(1,'a', NULL); #정상실행
 insert into tblexam values(2,'b', 'gumi'); #에러
 ```
 
-![ckErr.png]({{"assets\images\dbms\sqlTransaction\ckErr.png" | relative_url}})
+![ckErr.png]({{"../../../../assets/images/dbms/sqlTransaction/ckErr.png" | relative_url}})
 
 정해진 도메인 외의 값이 입력되면 에러가 발생하는 것을 볼 수 있다.
 
