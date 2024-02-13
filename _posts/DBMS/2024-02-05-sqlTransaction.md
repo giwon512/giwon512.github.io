@@ -3,6 +3,7 @@ layout: single
 title: Oracle SQL(3) 트랜잭션과 데이터 무결성
 categories: [DBMS]
 tag: [Oracle, Database]
+toc: true
 ---
 
 

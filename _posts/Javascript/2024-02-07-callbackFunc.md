@@ -3,6 +3,7 @@ layout: single
 title: JS filter, reduce, map 함수
 categories: Javascript
 tag: [Frontend]
+toc: true
 ---
 
 
