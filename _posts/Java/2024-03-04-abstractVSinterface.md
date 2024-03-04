@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 인터페이스의 특징과 필요성
+title: 추상 클래스 vs 인터페이스
 categories: Java
 tag: [Backend, Java, 자바]
 toc: true
