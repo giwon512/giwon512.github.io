@@ -1,8 +1,8 @@
 ---
 layout: single
 title: Tomcat으로 cmd창에서 웹프로젝트 실행하기
-categories: Java
-tag: [Backend, Java, 자바]
+categories: Servlet
+tag: [Backend, Java, 자바, 서버]
 toc: true
 ---
 
