@@ -2,7 +2,7 @@
 layout: single
 title: 구구단 예제(1) - 클래스형 컴포넌트 선언
 categories: React
-tag: [Frontend]
+tag: [Frontend, Javascript]
 toc: true
 ---
 
