@@ -25,7 +25,36 @@ toc: true
 
 # 📚 활용된 개발 언어 및 환경
 
-![springboot.png]({{"../../../../assets/images/Project/OrderManagement/springboot.png" | relative_url}})
+<p align="center">  
+  <img src="https://github.com/giwon512/order-management-service/assets/64604990/c6d1d0dc-eafd-4ecd-9621-366f36b4e1bb" align="center" width="32%">  
+  <img src="https://github.com/giwon512/order-management-service/assets/64604990/682e8c38-186b-477d-97d5-de70068b1236" align="center" width="32%">  
+  <img src="https://github.com/giwon512/order-management-service/assets/64604990/9ffaf2fa-a37f-45fc-a1ab-43ccd3502349" align="center" width="32%"> 
+</p>
+
+<p align="center">  
+  <img src="https://github.com/giwon512/order-management-service/assets/64604990/e5a2af88-080b-4d17-8887-4006d45d851e"
+ align="center" width="32%">  
+  <img src="https://github.com/giwon512/order-management-service/assets/64604990/1a05b46a-cb68-4a28-997b-06b7d687e623" align="center" width="32%">  
+  <img src="https://github.com/giwon512/order-management-service/assets/64604990/54f9c9b0-2c56-4755-ac40-f279983a71dd" align="center" width="32%"> 
+</p>
+
+<p align="center">  
+  <img src="https://github.com/giwon512/order-management-service/assets/64604990/d8c8dbf5-826f-4440-b645-131046446b95"
+ align="center" width="32%">  
+  <img src="https://github.com/giwon512/order-management-service/assets/64604990/8e5f78ac-1057-4965-95ae-52069f3d8554" align="center" width="32%">  
+  <img src="https://github.com/giwon512/order-management-service/assets/64604990/002d1471-ba11-4e2d-b74e-a53be3d4a1bd"
+ align="center" width="32%"> 
+</p>
+
+<p align="center">  
+  <img src="https://github.com/giwon512/order-management-service/assets/64604990/c0243a09-79f7-42d3-b721-f573729bca1b"
+ align="center" width="32%">  
+  <img src="https://github.com/giwon512/order-management-service/assets/64604990/ad83112a-cf70-48b7-bc35-804c0473a54a"
+ align="center" width="32%">  
+  <img src="https://github.com/giwon512/order-management-service/assets/64604990/67ae47f3-14de-4ad6-9e35-63a6a2563e80" align="center" width="32%"> 
+</p>
+
+<!-- ![springboot.png]({{"../../../../assets/images/Project/OrderManagement/springboot.png" | relative_url}})
 
 ![java.png]({{"../../../../assets/images/Project/OrderManagement/java.png" | relative_url}})
 
@@ -47,7 +76,7 @@ toc: true
 
 ![cloudtype.png]({{"../../../../assets/images/Project/OrderManagement/cloudtype.png" | relative_url}})
 
-![postman.png]({{"../../../../assets/images/Project/OrderManagement/postman.png" | relative_url}})
+![postman.png]({{"../../../../assets/images/Project/OrderManagement/postman.png" | relative_url}}) -->
 
 # 🗂️ 프로젝트 아키텍처
 
