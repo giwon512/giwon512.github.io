@@ -1,4 +1,11 @@
-# 대학 주점 주문 관리 프로젝트
+---
+layout: single
+title: 대학 주점 주문 관리 프로젝트
+categories: Project
+tag: [Frontend, Backend, Java, 스프링부트, 서버, 데이터베이스]
+toc: true
+---
+
 
 📄 **github**
 
