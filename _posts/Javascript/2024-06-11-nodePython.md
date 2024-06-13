@@ -1,7 +1,7 @@
 ---
 layout: single
 title: javascript 환경에서 python 실행하기
-categories: [Javascript, React]
+categories: [Javascript, React, Python]
 tag: [Frontend, Node.js, Python, Database, MariaDB, Process]
 toc: true
 ---
